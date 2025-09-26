@@ -1,0 +1,5 @@
+requests
+litellm
+google-search-results
+langchain
+langchain_anthropic
